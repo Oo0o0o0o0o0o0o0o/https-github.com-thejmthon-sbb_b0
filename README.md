@@ -1,1 +1,1 @@
-https://github.com/thejmthon/sbb_b0.git
+# arangodb-template
